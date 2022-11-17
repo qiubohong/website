@@ -1,0 +1,173 @@
+{
+    "used": [],
+    "self": [
+        {
+            "title": "excalidraw在线画布",
+            "description": "适合快速画粗糙的原型稿和流程图",
+            "url": "http://excalidraw.borfyqiu.com/"
+        },
+        {
+            "title": "每日任务编排",
+            "description": "wekan任务面板开源搭建，适合每日工作计划编排",
+            "url": "http://9.134.67.128:18080/"
+        }
+    ],
+    "today": [
+        {
+            "title": "JavaScript 算法与数据结构",
+            "description": "本仓库包含了多种基于 JavaScript 的算法与数据结构。每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步阅读 (还有 YouTube 视频) 。",
+            "url": "https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md"
+        }
+    ],
+    "learn": [
+        {
+            "title":"mini-vue vue3原理学习",
+            "description": "实现最简 vue3 模型( Help you learn more efficiently vue3 source code )",
+            "url":"https://github.com/cuixiaorui/mini-vue"
+        },
+        {
+            "title": "designpatternsgame",
+            "description": "designpatternsgame通过答题学习JavaScript设计模式",
+            "url":"https://designpatternsgame.com/"
+        },
+        {
+            "title": "GitHubDaily",
+            "description": "GitHubDaily 已累积分享超过 3000 个开源项目，内容包括但不限于 GitHub 上的开源技术资料、开发者工具、编程网站以及成熟应用。",
+            "url": "https://github.com/GitHubDaily/GitHubDaily"
+        },
+        {
+            "title":"Cypress自动化测试",
+            "description": "从头学起Cypress，可以看下面的系列文章",
+            "url":"https://www.cnblogs.com/poloyy/category/1768839.html"
+        },
+        {
+            "title": "nodejs收集",
+            "description": "项目受 awesome-nodejs 启发, 由于希望在原仓库中提供中文版，但跟该作者沟通，作者不希望添加本地化翻译增加维护工作量；且该库有很多国内用户常见的库并未收录，分类体系也不符合我的预期",
+            "url": "https://github.com/huaize2020/awesome-nodejs"
+        },
+        {
+            "title": "Github Top",
+            "description": "目前开源社区流行什么，隔几天看看，有没有出现什么热门技术学习",
+            "url": "https://www.githubs.cn/top"
+        },
+        {
+            "title": "MDN Web 开发技术官方文档",
+            "description": "最专业，最全的web开发技术文档，很多资料都可以这里查询到",
+            "url": "https://developer.mozilla.org/zh-CN/docs/Web"
+        },
+        {
+            "title": "技术图谱，roadmap.sh",
+            "description": "各类技术栈学习图谱，能让你跨端学习不同行业知识入门",
+            "url": "https://roadmap.sh"
+        },
+        {
+            "title": "阮一峰博客",
+            "description": "",
+            "url": "https://www.ruanyifeng.com/blog/"
+        },
+        {
+            "title": "技术免费书籍 github",
+            "description": "最全的分类免费书籍收集github",
+            "url": "https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md"
+        }
+    ],
+    "book": [
+        {
+            "title": "免费书籍下载 ebook",
+            "description": "很多书籍都可以下载 mobi, pdf, epub格式都有，很高清",
+            "url": "https://ebook2.lorefree.com/"
+        },
+        {
+            "title": "黑客与画家",
+            "description": "阮一峰出品",
+            "url": "",
+            "status": 0
+        },
+        {
+            "title": "软件随想录",
+            "description": "阮一峰出品",
+            "url": "",
+            "status": 0
+        },
+        {
+            "title": "Just For Fun（Linus Torvalds自传）",
+            "description": "阮一峰推荐 Linux创始人自我介绍，学习技术大神的思想",
+            "url": "",
+            "status": 0
+        }
+    ],
+    "week": [
+        {
+            "title": "奇舞周刊",
+            "description": "前端技术周刊，可以一周定期观看",
+            "url": "https://weekly.75.team/"
+        },
+        {
+            "title": "前端精读周刊",
+            "description": "前端精读周刊。帮你理解最前沿、实用的技术。现已涵盖： 结合大厂工作经验解读的 前沿技术，源码解读。 逐渐加入一些后端技术解读。 一些 商业思考。 已完成 编译原理、设计模式 两大基础模块。",
+            "url": "https://github.com/ascoders/weekly"
+        },
+        {
+            "title": "编程狂人",
+            "description": "《编程狂人》周刊是专为IT人打造的行业技术周刊，包含多个方面",
+            "url": "https://www.tuicool.com/mags"
+        },
+        {
+            "title": "码农周刊",
+            "description": "也是包含各方面的技术文章集合，主要集中后端服务",
+            "url": "https://weekly.manong.io/issues/"
+        },
+        {
+            "title": "科技爱好者周刊",
+            "description": "阮一峰收集的科技相关文章，并对每一篇文章都有总结",
+            "url": "https://github.com/ruanyf/weekly"
+        }
+    ],
+    "framework": [
+        {
+            "title": "mermaid-js",
+            "description": "像写markdown实现流程图等设计的js框架",
+            "url": "https://github.com/mermaid-js/mermaid"
+        }
+    ],
+    "time": [
+        {
+            "title": "腾讯公司内部课程-金字塔思维",
+            "description": " 1、了解金字塔思维，并且在日常工作中可以使用； 2、掌握结构性的思维方式，可以更有技巧的处理各种形式的文档撰写； 3、掌握各种不同表达方式，演绎或归纳，更清晰的表达观点或论证结论； 4、让你在和同事、上级沟通中展现你思维逻辑清晰的形象，助你在职场中发挥更高的水平。",
+            "url": "http://v8.learn.oa.com/user/net?act_id=2363"
+        }
+    ],
+    "blog": [
+        {
+            "title": "imove轻量级逻辑编排",
+            "description": "",
+            "url": "https://www.yuque.com/imove/docs/hvu0md"
+        },
+        {
+            "title": "阿里lowcode引擎",
+            "description": "基于 Low-Code Engine 快速打造高生产力的低代码研发平台",
+            "url": "https://lowcode-engine.cn/"
+        },
+        {
+            "title": "phith0n，『离别歌』是我的个人博客",
+            "description": "业余时间，我大概有1/3是一个黑客，喜欢研究和挑战计算机世界的各种代码与协议，对未知的技术充满好奇；1/3是一个程序员，热爱所有创造性的工作，包括编码、写作和沙盒游戏（比如缺氧和帝国时代）；还有约1/3是个文字工作者，可能现在不到1/3了，因为我发现我的表达欲正在逐渐消失。",
+            "url": "https://www.leavesongs.com/"
+        },{
+            "title": "Budibase 低代码平台",
+            "description": "Budibase是一个低代码平台，可以在几分钟内创建内部应用程序、工作流程和管理面板。支持PostgreSQL、MySQL、MSSQL、MongoDB、REST API、Docker、K8等",
+            "url": "https://github.com/Budibase/budibase"
+        }
+    ],
+    "other": [
+        {
+            "title": "印象中文",
+            "description": "收集了技术网站，并且翻译成中文，更加方便学习",
+            "url": "https://docschina.org/"
+        },
+        {
+            "title": "选择最正确的npm包 openbase",
+            "description": "这里可以看到npm包的github star，以及下载数量，能够区分哪些npm更加好用",
+            "url": "https://openbase.com/"
+        }
+    ]
+}
