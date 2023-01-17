@@ -73,6 +73,11 @@
     ],
     "book": [
         {
+            "title": "Zlibrary全球最大的数字图书馆",
+            "description": "由于该网站在国内经常失效，这里提供了多个备用域名  https://clibrary.top/ https://bk.hallowlib.org/ https://zlib.knat.network/",
+            "url": "https://bk.hallowlib.org/"
+        },
+        {
             "title": "免费书籍下载 ebook",
             "description": "很多书籍都可以下载 mobi, pdf, epub格式都有，很高清",
             "url": "https://ebook2.lorefree.com/"
