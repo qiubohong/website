@@ -1,3 +1,4 @@
+nvm use v14.20.0
 yarn build
 git add . *
 git commit -m "update"
