@@ -103,6 +103,11 @@
     ],
     "week": [
         {
+            "title": "前端森林",
+            "description": "收录前端资讯类站点，周刊类网站，高质量个人博客和技术团队博客，在线服务类/工具类网站等",
+            "url": "https://fesites.netlify.app/"
+        },
+        {
             "title": "奇舞周刊",
             "description": "前端技术周刊，可以一周定期观看",
             "url": "https://weekly.75.team/"
@@ -142,7 +147,7 @@
             "url": "http://v8.learn.oa.com/user/net?act_id=2363"
         }
     ],
-    "blog": [
+    "lowcode": [
         {
             "title": "imove轻量级逻辑编排",
             "description": "",
@@ -164,6 +169,11 @@
         }
     ],
     "other": [
+        {
+            "title": "2022 年 JavaScript 项目发展汇总",
+            "description": "我们尝试对过去 12 个月里 JavaScript 生态中的趋势性项目做一个总结。",
+            "url": "https://risingstars.js.org/2022/zh#conclusion"
+        },
         {
             "title": "印象中文",
             "description": "收集了技术网站，并且翻译成中文，更加方便学习",

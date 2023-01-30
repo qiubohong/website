@@ -21,7 +21,7 @@ import ListWebSite from "./components/ListWebSite.vue";
           <t-menu-item value="framework"> 开源框架 </t-menu-item>
           <t-menu-item value="learn"> 学习资源 </t-menu-item>
           <t-menu-item value="week"> 技术周刊 </t-menu-item>
-          <t-menu-item value="blog"> xboss相关 </t-menu-item>
+          <t-menu-item value="lowcode"> 低代码相关 </t-menu-item>
           <t-menu-item value="time"> 定期重温学习 </t-menu-item>
           <t-menu-item value="other"> 其他收集 </t-menu-item>
         </t-head-menu>
