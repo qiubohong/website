@@ -2,6 +2,11 @@
     "used": [],
     "self": [
         {
+            "title": "个人博客记录",
+            "description": "主要收集自己个人写的一些博客文章",
+            "url": "https://qborfy.com/"
+        },
+        {
             "title": "excalidraw在线画布",
             "description": "适合快速画粗糙的原型稿和流程图",
             "url": "http://excalidraw.borfyqiu.com/"
