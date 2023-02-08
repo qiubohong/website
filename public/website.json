@@ -15,6 +15,10 @@
             "title": "每日任务编排",
             "description": "wekan任务面板开源搭建，适合每日工作计划编排",
             "url": "http://9.134.67.128:18080/"
+        },{
+            "title": "面试准备",
+            "description": "程序员海外工作/英文面试手册",
+            "url": "https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook"
         }
     ],
     "today": [
