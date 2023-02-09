@@ -122,6 +122,11 @@
             "url": "https://weekly.75.team/"
         },
         {
+            "title": "先知社区",
+            "description": "先知社区是一个安全技术社区，旨在为安全技术研究人员提供一个自由、开放、平等的交流平台，主要是看各种漏洞的",
+            "url": "https://xz.aliyun.com/tab/1"
+        },
+        {
             "title": "前端精读周刊",
             "description": "前端精读周刊。帮你理解最前沿、实用的技术。现已涵盖： 结合大厂工作经验解读的 前沿技术，源码解读。 逐渐加入一些后端技术解读。 一些 商业思考。 已完成 编译原理、设计模式 两大基础模块。",
             "url": "https://github.com/ascoders/weekly"
