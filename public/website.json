@@ -92,10 +92,22 @@
             "url": "https://ebook2.lorefree.com/"
         },
         {
-            "title": "黑客与画家",
-            "description": "阮一峰出品",
+            "title": "黄金时代",
+            "description": "王小波",
             "url": "",
             "status": 0
+        },
+        {
+            "title": "非暴力沟通",
+            "description": "马歇尔·卢森堡   与自己、与别人相处之道",
+            "url": "",
+            "status": 0
+        },
+        {
+            "title": "黑客与画家",
+            "description": "阮一峰出品",
+            "url": "https://week.qborfy.com/book/#/epub/1676258158916",
+            "status": 1
         },
         {
             "title": "软件随想录",
@@ -115,6 +127,11 @@
             "title": "前端森林",
             "description": "收录前端资讯类站点，周刊类网站，高质量个人博客和技术团队博客，在线服务类/工具类网站等",
             "url": "https://fesites.netlify.app/"
+        },
+        {
+            "title": "中文独立博客列表",
+            "description": "中文独立博客列表",
+            "url": "https://github.com/timqian/chinese-independent-blogs?utm_source=gold_browser_extension"
         },
         {
             "title": "奇舞周刊",
