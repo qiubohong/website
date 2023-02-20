@@ -215,5 +215,17 @@
             "description": "这里可以看到npm包的github star，以及下载数量，能够区分哪些npm更加好用",
             "url": "https://openbase.com/"
         }
+    ],
+    "jobs": [
+        {
+            "title": "Vue jobs",
+            "description": "Vue生态相关的就业网站",
+            "url": "https://vuejobs.com/"
+        },
+        {
+            "title": "阮一峰 【谁在招人】",
+            "description": "免费的程序员招聘服务，利用 GitHub Issues，每周发布一期，每期发布 10 个招聘信息。",
+            "url": "https://github.com/ruanyf/weekly/issues/2827"
+        }
     ]
 }
