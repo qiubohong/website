@@ -98,6 +98,12 @@
             "status": 0
         },
         {
+            "title": "三体全集",
+            "description": "刘慈欣",
+            "url": "https://week.qborfy.com/book/#/epub/1677665567012",
+            "status": 0
+        },
+        {
             "title": "非暴力沟通",
             "description": "马歇尔·卢森堡   与自己、与别人相处之道",
             "url": "",
@@ -105,8 +111,8 @@
         },
         {
             "title": "黑客与画家",
-            "description": "阮一峰出品",
-            "url": "https://week.qborfy.com/book/#/epub/1676258158916",
+            "description": "阮一峰翻译",
+            "url": "https://week.qborfy.com/book/#/epub/1677232823172",
             "status": 1
         },
         {
@@ -126,7 +132,7 @@
         {
             "title": "GitHub中文排行榜",
             "description": "GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
-            "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+            "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts"
         },
         {
             "title": "前端森林",
