@@ -7,6 +7,11 @@
             "url": "https://qborfy.com/"
         },
         {
+            "title": "个人事项记录",
+            "description": "主要记录个人每天一些固定事项和一些奇怪的想法",
+            "url": "https://today.qborfy.com/"
+        },
+        {
             "title": "excalidraw在线画布",
             "description": "适合快速画粗糙的原型稿和流程图",
             "url": "http://excalidraw.borfyqiu.com/"
@@ -15,7 +20,8 @@
             "title": "每日任务编排",
             "description": "wekan任务面板开源搭建，适合每日工作计划编排",
             "url": "http://9.134.67.128:18080/"
-        },{
+        },
+        {
             "title": "面试准备",
             "description": "程序员海外工作/英文面试手册",
             "url": "https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook"
@@ -30,14 +36,19 @@
     ],
     "learn": [
         {
-            "title":"mini-vue vue3原理学习",
+            "title": "mini-vue vue3原理学习",
             "description": "实现最简 vue3 模型( Help you learn more efficiently vue3 source code )",
-            "url":"https://github.com/cuixiaorui/mini-vue"
+            "url": "https://github.com/cuixiaorui/mini-vue"
+        },
+        {
+            "title": "前端早早聊大会",
+            "description": "主要收集各大前端相关领域专家，去分享自己的一些技术探索和学习路径",
+            "url": "https://www.zaozao.run/"
         },
         {
             "title": "designpatternsgame",
             "description": "designpatternsgame通过答题学习JavaScript设计模式",
-            "url":"https://designpatternsgame.com/"
+            "url": "https://designpatternsgame.com/"
         },
         {
             "title": "GitHubDaily",
@@ -45,9 +56,9 @@
             "url": "https://github.com/GitHubDaily/GitHubDaily"
         },
         {
-            "title":"Cypress自动化测试",
+            "title": "Cypress自动化测试",
             "description": "从头学起Cypress，可以看下面的系列文章",
-            "url":"https://www.cnblogs.com/poloyy/category/1768839.html"
+            "url": "https://www.cnblogs.com/poloyy/category/1768839.html"
         },
         {
             "title": "nodejs收集",
@@ -70,11 +81,6 @@
             "url": "https://roadmap.sh"
         },
         {
-            "title": "阮一峰博客",
-            "description": "",
-            "url": "https://www.ruanyifeng.com/blog/"
-        },
-        {
             "title": "技术免费书籍 github",
             "description": "最全的分类免费书籍收集github",
             "url": "https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md"
@@ -92,15 +98,26 @@
             "url": "https://ebook2.lorefree.com/"
         },
         {
-            "title": "黄金时代",
-            "description": "王小波",
-            "url": "",
-            "status": 0
+            "title": "予爾書",
+            "description": "下载比前面两个快很多的书籍网站，虽然资源不够丰富，但是够快",
+            "url": "https://www.ershu.org/"
         },
         {
             "title": "三体全集",
             "description": "刘慈欣",
             "url": "https://week.qborfy.com/book/#/epub/1677665567012",
+            "status": 0
+        },
+        {
+            "title": "领域驱动设计",
+            "description": "刘慈欣",
+            "url": "https://week.qborfy.com/book/#/epub/1677665567012",
+            "status": 0
+        },
+        {
+            "title": "黄金时代",
+            "description": "王小波",
+            "url": "",
             "status": 0
         },
         {
@@ -175,6 +192,18 @@
             "url": "https://github.com/ruanyf/weekly"
         }
     ],
+    "blog": [
+        {
+            "title": "pnpm Zoltan Kochan作者博客 ",
+            "description": "Zoltan Kochan 全站技术，可以进去学习多看看",
+            "url": "https://www.kochan.io"
+        },
+        {
+            "title": "阮一峰博客",
+            "description": "目前没什么更新内容，主要还是科技这周刊内容",
+            "url": "https://www.ruanyifeng.com/blog/"
+        }
+    ],
     "framework": [
         {
             "title": "mermaid-js",
@@ -204,7 +233,8 @@
             "title": "phith0n，『离别歌』是我的个人博客",
             "description": "业余时间，我大概有1/3是一个黑客，喜欢研究和挑战计算机世界的各种代码与协议，对未知的技术充满好奇；1/3是一个程序员，热爱所有创造性的工作，包括编码、写作和沙盒游戏（比如缺氧和帝国时代）；还有约1/3是个文字工作者，可能现在不到1/3了，因为我发现我的表达欲正在逐渐消失。",
             "url": "https://www.leavesongs.com/"
-        },{
+        },
+        {
             "title": "Budibase 低代码平台",
             "description": "Budibase是一个低代码平台，可以在几分钟内创建内部应用程序、工作流程和管理面板。支持PostgreSQL、MySQL、MSSQL、MongoDB、REST API、Docker、K8等",
             "url": "https://github.com/Budibase/budibase"

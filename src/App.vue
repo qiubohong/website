@@ -18,6 +18,7 @@ import ListWebSite from "./components/ListWebSite.vue";
           <t-menu-item value="self"> 个人网站 </t-menu-item>
           <t-menu-item value="today"> 每日必学 </t-menu-item>
           <t-menu-item value="book"> 在读书籍 </t-menu-item>
+          <t-menu-item value="blog"> 博客收集 </t-menu-item>
           <t-menu-item value="framework"> 开源框架 </t-menu-item>
           <t-menu-item value="learn"> 学习资源 </t-menu-item>
           <t-menu-item value="week"> 技术周刊 </t-menu-item>
@@ -25,6 +26,7 @@ import ListWebSite from "./components/ListWebSite.vue";
           <t-menu-item value="time"> 定期重温学习 </t-menu-item>
           <t-menu-item value="other"> 其他收集 </t-menu-item>
           <t-menu-item value="jobs"> 找工作 </t-menu-item>
+          <t-menu-item value="jobs2"> 找工作2 </t-menu-item>
         </t-head-menu>
       </t-header>
       <t-content>
