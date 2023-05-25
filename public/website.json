@@ -202,6 +202,11 @@
             "title": "阮一峰博客",
             "description": "目前没什么更新内容，主要还是科技这周刊内容",
             "url": "https://www.ruanyifeng.com/blog/"
+        },
+        {
+            "title": "AI工具收集",
+            "description": "AI工具收集，可以进去看看，有很多AI工具",
+            "url": "https://ai.nancheng.fun/"
         }
     ],
     "framework": [
