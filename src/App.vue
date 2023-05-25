@@ -26,7 +26,6 @@ import ListWebSite from "./components/ListWebSite.vue";
           <t-menu-item value="time"> 定期重温学习 </t-menu-item>
           <t-menu-item value="other"> 其他收集 </t-menu-item>
           <t-menu-item value="jobs"> 找工作 </t-menu-item>
-          <t-menu-item value="jobs2"> 找工作2 </t-menu-item>
         </t-head-menu>
       </t-header>
       <t-content>
