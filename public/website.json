@@ -32,6 +32,11 @@
             "title": "JavaScript 算法与数据结构",
             "description": "本仓库包含了多种基于 JavaScript 的算法与数据结构。每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步阅读 (还有 YouTube 视频) 。",
             "url": "https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md"
+        },
+        {
+            "title": "初学者 Web 开发 - 课程",
+            "description": "除了 web 开发，还是有 AI 入门等教程，后面尝试做成短视频分享",
+            "url":"https://github.com/microsoft/Web-Dev-For-Beginners"
         }
     ],
     "learn": [
@@ -241,6 +246,16 @@
             "title":"知识库如何搭建",
             "description": "搭建知识库有利于大脑的记忆，从而将一些知识进行梳理实现长期记忆的效果",
             "url": "https://sspai.com/post/73093"
+        },
+        {
+            "title":"计算机专业课程体系",
+            "description": "对计算机科学有追求的同学（读研、想进大厂或工作之余想提升自己），非常推荐你按照本学习路线花两三年的时间去深入学习，这对你今后的发展大有裨益",
+            "url":"https://hackway.org/docs/cs/intro"
+        },
+        {
+            "title": "docker 学习",
+            "description": "docker 学习",
+            "url": "https://www.bilibili.com/read/cv21266100"
         }
     ],
     "lowcode": [
