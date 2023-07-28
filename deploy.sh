@@ -1,5 +1,5 @@
 source ~/.bash_profile
-nvm use v14.21.3
+nvm use v18.16.0
 yarn build
 git add . *
 git commit -m "update"
