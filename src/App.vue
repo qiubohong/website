@@ -56,7 +56,7 @@ interface WebSite {
   allData: any;
   isDark: boolean;
 }
-import { defineComponent, ref } from "vue";
+import { defineComponent } from "vue";
 export default defineComponent({
   data() {
     return {
