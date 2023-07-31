@@ -23,9 +23,11 @@ import ListWebSite from "./components/ListWebSite.vue";
           <t-menu-item value="jobs"> 找工作 </t-menu-item>
 
           <template #operations>
-            <t-button @click="setDark" :theme="isDark ? 'dark' : 'light'">
+            <!-- <t-button @click="setDark" :theme="isDark ? 'dark' : 'light'">
               {{ isDark ? '白天' : '夜晚' }}
-            </t-button>
+            </t-button> -->
+            <t-switch v-model="isDark" size="large" :label="['白天', '晚上']">
+            </t-switch>
           </template>
         </t-head-menu>
       </t-header>
@@ -96,6 +98,15 @@ export default defineComponent({
       localStorage.setItem("currentMenu", newVal);
       return newVal;
     },
+    isDark(newVal) {
+      if (newVal) {
+        document.documentElement.setAttribute('theme-mode', 'dark');
+        localStorage.setItem("isDark", 'dark');
+      } else {
+        document.documentElement.setAttribute('theme-mode', 'light');
+        localStorage.setItem("isDark", 'light');
+      }
+    }
   },
   methods: {
     getData() {
@@ -121,13 +132,6 @@ export default defineComponent({
 
     setDark() {
       this.isDark = !this.isDark;
-      if (this.isDark) {
-        document.documentElement.setAttribute('theme-mode', 'dark');
-        localStorage.setItem("isDark", 'dark');
-      } else {
-        document.documentElement.setAttribute('theme-mode', 'light');
-        localStorage.setItem("isDark", 'light');
-      }
     }
   },
 });

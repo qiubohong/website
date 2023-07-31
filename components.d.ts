@@ -23,6 +23,7 @@ declare module 'vue' {
     TListItemMeta: typeof import('tdesign-vue-next')['ListItemMeta']
     TMenuItem: typeof import('tdesign-vue-next')['MenuItem']
     TRow: typeof import('tdesign-vue-next')['Row']
+    TSwitch: typeof import('tdesign-vue-next')['Switch']
     TTag: typeof import('tdesign-vue-next')['Tag']
   }
 }
