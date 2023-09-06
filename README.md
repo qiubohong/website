@@ -2,7 +2,7 @@
 # 个人收集网站
 主要收集如下：
 
-##个人网站
+## 个人网站
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |个人博客记录|主要收集自己个人写的一些博客文章|https://qborfy.com/|
@@ -12,14 +12,14 @@
 |面试准备|程序员海外工作/英文面试手册|https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook|
 
 
-##每日必学
+## 每日必学
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |JavaScript 算法与数据结构|本仓库包含了多种基于 JavaScript 的算法与数据结构。每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步阅读 (还有 YouTube 视频) 。|https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md|
 |初学者 Web 开发 - 课程|除了 web 开发，还是有 AI 入门等教程，后面尝试做成短视频分享|https://github.com/microsoft/Web-Dev-For-Beginners|
 
 
-##在读书籍
+## 在读书籍
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |Zlibrary全球最大的数字图书馆|由于该网站在国内经常失效，这里提供了多个备用域名  https://clibrary.top/ https://bk.hallowlib.org/ https://zlib.knat.network/|https://bk.hallowlib.org/|
@@ -37,7 +37,7 @@
 |Just For Fun（Linus Torvalds自传）|阮一峰推荐 Linux创始人自我介绍，学习技术大神的思想||未读
 
 
-##博客收集
+## 博客收集
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |pnpm Zoltan Kochan作者博客 |Zoltan Kochan 全站技术，可以进去学习多看看|https://www.kochan.io|
@@ -46,13 +46,13 @@
 |Awesome chatGPT应用|Awesome chatGPT应用|https://github.com/sindresorhus/awesome-chatgpt|
 
 
-##开源框架
+## 开源框架
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |mermaid-js|像写markdown实现流程图等设计的js框架|https://github.com/mermaid-js/mermaid|
 
 
-##学习资源
+## 学习资源
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |mini-vue vue3原理学习|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|https://github.com/cuixiaorui/mini-vue|
@@ -67,7 +67,7 @@
 |技术免费书籍 github|最全的分类免费书籍收集github|https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md|
 
 
-##技术周刊
+## 技术周刊
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |GitHub中文排行榜|GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。|https://github.com/GrowingGit/GitHub-Chinese-Top-Charts|
@@ -81,7 +81,7 @@
 |科技爱好者周刊|阮一峰收集的科技相关文章，并对每一篇文章都有总结|https://github.com/ruanyf/weekly|
 
 
-##低代码相关
+## 低代码相关
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |imove轻量级逻辑编排||https://www.yuque.com/imove/docs/hvu0md|
@@ -90,7 +90,7 @@
 |Budibase 低代码平台|Budibase是一个低代码平台，可以在几分钟内创建内部应用程序、工作流程和管理面板。支持PostgreSQL、MySQL、MSSQL、MongoDB、REST API、Docker、K8等|https://github.com/Budibase/budibase|
 
 
-##定期重温学习
+## 定期重温学习
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |腾讯公司内部课程-金字塔思维| 1、了解金字塔思维，并且在日常工作中可以使用； 2、掌握结构性的思维方式，可以更有技巧的处理各种形式的文档撰写； 3、掌握各种不同表达方式，演绎或归纳，更清晰的表达观点或论证结论； 4、让你在和同事、上级沟通中展现你思维逻辑清晰的形象，助你在职场中发挥更高的水平。|http://v8.learn.oa.com/user/net?act_id=2363|
@@ -101,7 +101,7 @@
 |docker 学习|docker 学习|https://www.bilibili.com/read/cv21266100|
 
 
-##其他收集
+## 其他收集
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |2022 年 JavaScript 项目发展汇总|我们尝试对过去 12 个月里 JavaScript 生态中的趋势性项目做一个总结。|https://risingstars.js.org/2022/zh#conclusion|
@@ -110,7 +110,7 @@
 |spring 中文教程|spring 中文教程|https://springdoc.cn/|
 
 
-##找工作
+## 找工作
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |Vue jobs|Vue生态相关的就业网站|https://vuejobs.com/|
