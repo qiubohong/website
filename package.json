@@ -5,7 +5,8 @@
     "dev": "vite",
     "start": "vite",
     "build": "vue-tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "async": "node build/build.async.mjs"
   },
   "dependencies": {
     "jest": "^29.4.3",
