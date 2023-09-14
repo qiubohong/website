@@ -16,6 +16,7 @@
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |JavaScript 算法与数据结构|本仓库包含了多种基于 JavaScript 的算法与数据结构。每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步阅读 (还有 YouTube 视频) 。|https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md|
+|Hello 算法|动画图解、一键运行的数据结构与算法教程|https://www.hello-algo.com/|
 |初学者 Web 开发 - 课程|除了 web 开发，还是有 AI 入门等教程，后面尝试做成短视频分享|https://github.com/microsoft/Web-Dev-For-Beginners|
 
 
@@ -44,6 +45,7 @@
 |阮一峰博客|目前没什么更新内容，主要还是科技这周刊内容|https://www.ruanyifeng.com/blog/|
 |AI工具收集|AI工具收集，可以进去看看，有很多AI工具|https://ai.nancheng.fun/|
 |Awesome chatGPT应用|Awesome chatGPT应用|https://github.com/sindresorhus/awesome-chatgpt|
+|gitstars Manage|一个在线工具，用来管理你打过星的 GitHub 项目。|https://gitstars.cfour.top/|
 
 
 ## 开源框架

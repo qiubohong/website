@@ -34,6 +34,11 @@
             "url": "https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md"
         },
         {
+            "title": "Hello 算法",
+            "description": "动画图解、一键运行的数据结构与算法教程",
+            "url":"https://www.hello-algo.com/"
+        },
+        {
             "title": "初学者 Web 开发 - 课程",
             "description": "除了 web 开发，还是有 AI 入门等教程，后面尝试做成短视频分享",
             "url":"https://github.com/microsoft/Web-Dev-For-Beginners"
@@ -232,6 +237,11 @@
             "title": "Awesome chatGPT应用",
             "description": "Awesome chatGPT应用",
             "url": "https://github.com/sindresorhus/awesome-chatgpt"
+        },
+        {
+            "title": "gitstars Manage",
+            "description": "一个在线工具，用来管理你打过星的 GitHub 项目。",
+            "url":"https://gitstars.cfour.top/"
         }
     ],
     "framework": [
