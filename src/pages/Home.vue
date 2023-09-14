@@ -1,5 +1,10 @@
 <script setup lang="ts">
 import ListWebSite from "../components/ListWebSite.vue";
+import {
+  MoonIcon,
+  SunnyIcon,
+  SmileIcon,
+} from 'tdesign-icons-vue-next';
 </script>
 <template>
   <div class="tdesign-demo-item--layout">
@@ -20,13 +25,21 @@ import ListWebSite from "../components/ListWebSite.vue";
           <t-menu-item value="lowcode"> 低代码相关 </t-menu-item>
           <t-menu-item value="time"> 定期重温学习 </t-menu-item>
           <t-menu-item value="other"> 其他收集 </t-menu-item>
-          <t-menu-item value="jobs"> 找工作 </t-menu-item>
+          <t-menu-item value="jobs"> 找工作</t-menu-item>
 
           <template #operations>
             <!-- <t-button @click="setDark" :theme="isDark ? 'dark' : 'light'">
               {{ isDark ? '白天' : '夜晚' }}
             </t-button> -->
-            <t-switch v-model="isDark" size="large" :label="['白天', '晚上']">
+            <t-switch v-model="isDark" size="large" >
+              <template #label="slotProps">
+                <template v-if="slotProps.value">
+                  <SunnyIcon />
+                </template>
+                <template v-else>
+                  <MoonIcon />
+                </template>
+              </template>
             </t-switch>
           </template>
         </t-head-menu>
@@ -45,7 +58,8 @@ import ListWebSite from "../components/ListWebSite.vue";
       </t-content>
       <t-footer>
         <div style="text-align: center;">
-          borfyqiu 学习站点，天天向上，好好学习！
+          <span>borfyqiu 学习站点，天天向上，好好学习！</span>
+          <SmileIcon style="color: orange" size="2em"/>
         </div>
       </t-footer>
     </t-layout>
@@ -137,4 +151,8 @@ export default defineComponent({
 });
 </script>
 <style>
+body {
+  margin: 0;
+  padding: 0;
+}
 </style>

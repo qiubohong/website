@@ -10,11 +10,10 @@
           <t-row>
             <t-col style="flex-basis: fit-content">网址：</t-col>
             <t-col :span="10">
-              <span
-                style="color: rgb(117 222 220); cursor: pointer"
-                @click="goToLink(item)"
-                >{{ item.url }}</span
-              >
+              <t-link theme="primary" @click="goToLink(item)">
+                <LinkIcon/>  
+                {{ item.url }}
+              </t-link>
             </t-col>
           </t-row>
           <t-row v-if="item.status !== undefined" ty>
@@ -42,8 +41,13 @@
 </template>
 <script lang="ts">
 import { defineComponent } from "vue";
+import { LinkIcon, JumpIcon } from 'tdesign-icons-vue-next';
 export default defineComponent({
   name: 'ListWebSite',
+  components:{
+    LinkIcon,
+    JumpIcon,
+  },
   props: {
     list: {
       type: Array as any,
@@ -52,6 +56,7 @@ export default defineComponent({
     },
   },
   methods: {
+    
     goToLink(item: any) {
       window.open(item.url);
       let usedList: any = [];
