@@ -72,6 +72,7 @@
 ## 技术周刊
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
+|hacker news 开发新闻网站|科技与创业圈里面非常有名，尤其如果你想混北美和欧洲的圈子的话|https://news.ycombinator.com/news|
 |GitHub中文排行榜|GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。|https://github.com/GrowingGit/GitHub-Chinese-Top-Charts|
 |前端森林|收录前端资讯类站点，周刊类网站，高质量个人博客和技术团队博客，在线服务类/工具类网站等|https://fesites.netlify.app/|
 |中文独立博客列表|中文独立博客列表|https://github.com/timqian/chinese-independent-blogs?utm_source=gold_browser_extension|
