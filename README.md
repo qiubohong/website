@@ -54,6 +54,7 @@
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |mermaid-js|像写markdown实现流程图等设计的js框架|https://github.com/mermaid-js/mermaid|
+|tiptap Editor无头编辑器|类似 notion的编辑器，可以支持各种前端框架|https://github.com/ueberdosis/tiptap|
 
 
 ## 学习资源
