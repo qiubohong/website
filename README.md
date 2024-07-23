@@ -55,6 +55,7 @@
 |  ----  | ----  |  ----  | ----  |
 |mermaid-js|像写markdown实现流程图等设计的js框架|https://github.com/mermaid-js/mermaid|
 |tiptap Editor无头编辑器|类似 notion的编辑器，可以支持各种前端框架|https://github.com/ueberdosis/tiptap|
+|spacedrive VDFS分布式文件管理系统|spacedrive是基于 Rust 开发的分布式文件管理系统  |https://github.com/spacedriveapp/spacedrive|
 
 
 ## 学习资源

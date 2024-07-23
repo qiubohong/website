@@ -269,6 +269,11 @@
             "title": "tiptap Editor无头编辑器",
             "description":"类似 notion的编辑器，可以支持各种前端框架", 
             "url": "https://github.com/ueberdosis/tiptap"
+        },
+        {
+            "title": "spacedrive VDFS分布式文件管理系统",
+            "description": "spacedrive是基于 Rust 开发的分布式文件管理系统  ",
+            "url": "https://github.com/spacedriveapp/spacedrive"
         }
     ],
     "time": [
