@@ -17,6 +17,7 @@
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |JavaScript 算法与数据结构|本仓库包含了多种基于 JavaScript 的算法与数据结构。每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步阅读 (还有 YouTube 视频) 。|https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md|
+|OI Wiki 算法竞赛知识整合站点|OI Wiki 致力于成为一个免费开放且持续更新的 编程竞赛（competitive programming） 知识整合站点|https://oi-wiki.org/|
 |Hello 算法|动画图解、一键运行的数据结构与算法教程|https://www.hello-algo.com/|
 |初学者 Web 开发 - 课程|除了 web 开发，还是有 AI 入门等教程，后面尝试做成短视频分享|https://github.com/microsoft/Web-Dev-For-Beginners|
 

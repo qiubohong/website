@@ -39,6 +39,11 @@
             "url": "https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md"
         },
         {
+            "title": "OI Wiki 算法竞赛知识整合站点",
+            "description": "OI Wiki 致力于成为一个免费开放且持续更新的 编程竞赛（competitive programming） 知识整合站点",
+            "url": "https://oi-wiki.org/"
+        },
+        {
             "title": "Hello 算法",
             "description": "动画图解、一键运行的数据结构与算法教程",
             "url":"https://www.hello-algo.com/"
