@@ -7,6 +7,16 @@
             "url": "https://qborfy.com/"
         },
         {
+            "title": "常用工具",
+            "description": "主要收集自己平时经常使用的工具界面，如：json格式化，json对比",
+            "url": "https://tool.qborfy.com/"
+        },
+        {
+            "title": "个人博客记录",
+            "description": "主要收集自己个人写的一些博客文章",
+            "url": "https://qborfy.com/"
+        },
+        {
             "title": "1000个小时学习英语",
             "description": "每个人都可以学会讲英语",
             "url": "https://week.qborfy.com/english/index.html"
@@ -20,11 +30,6 @@
             "title": "excalidraw在线画布",
             "description": "适合快速画粗糙的原型稿和流程图",
             "url": "http://excalidraw.borfyqiu.com/"
-        },
-        {
-            "title": "每日任务编排",
-            "description": "wekan任务面板开源搭建，适合每日工作计划编排",
-            "url": "http://9.134.67.128:18080/"
         },
         {
             "title": "面试准备",
@@ -46,12 +51,12 @@
         {
             "title": "Hello 算法",
             "description": "动画图解、一键运行的数据结构与算法教程",
-            "url":"https://www.hello-algo.com/"
+            "url": "https://www.hello-algo.com/"
         },
         {
             "title": "初学者 Web 开发 - 课程",
             "description": "除了 web 开发，还是有 AI 入门等教程，后面尝试做成短视频分享",
-            "url":"https://github.com/microsoft/Web-Dev-For-Beginners"
+            "url": "https://github.com/microsoft/Web-Dev-For-Beginners"
         }
     ],
     "learn": [
@@ -113,7 +118,7 @@
             "url": "https://bk.hallowlib.org/"
         },
         {
-            "title":"大白菜 程序员书籍收集处",
+            "title": "大白菜 程序员书籍收集处",
             "description": "专注于分享最有价值的互联网技术干货",
             "url": "https://cmsblogs.cn/"
         },
@@ -256,7 +261,7 @@
         {
             "title": "gitstars Manage",
             "description": "一个在线工具，用来管理你打过星的 GitHub 项目。",
-            "url":"https://gitstars.cfour.top/"
+            "url": "https://gitstars.cfour.top/"
         }
     ],
     "framework": [
@@ -267,7 +272,7 @@
         },
         {
             "title": "tiptap Editor无头编辑器",
-            "description":"类似 notion的编辑器，可以支持各种前端框架", 
+            "description": "类似 notion的编辑器，可以支持各种前端框架",
             "url": "https://github.com/ueberdosis/tiptap"
         },
         {
@@ -293,14 +298,14 @@
             "url": "https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html"
         },
         {
-            "title":"知识库如何搭建",
+            "title": "知识库如何搭建",
             "description": "搭建知识库有利于大脑的记忆，从而将一些知识进行梳理实现长期记忆的效果",
             "url": "https://sspai.com/post/73093"
         },
         {
-            "title":"计算机专业课程体系",
+            "title": "计算机专业课程体系",
             "description": "对计算机科学有追求的同学（读研、想进大厂或工作之余想提升自己），非常推荐你按照本学习路线花两三年的时间去深入学习，这对你今后的发展大有裨益",
-            "url":"https://hackway.org/docs/cs/intro"
+            "url": "https://hackway.org/docs/cs/intro"
         },
         {
             "title": "docker 学习",

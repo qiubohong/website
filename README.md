@@ -6,10 +6,11 @@
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
 |个人博客记录|主要收集自己个人写的一些博客文章|https://qborfy.com/|
+|常用工具|主要收集自己平时经常使用的工具界面，如：json格式化，json对比|https://tool.qborfy.com/|
+|个人博客记录|主要收集自己个人写的一些博客文章|https://qborfy.com/|
 |1000个小时学习英语|每个人都可以学会讲英语|https://week.qborfy.com/english/index.html|
 |个人事项记录|主要记录个人每天一些固定事项和一些奇怪的想法|https://today.qborfy.com/|
 |excalidraw在线画布|适合快速画粗糙的原型稿和流程图|http://excalidraw.borfyqiu.com/|
-|每日任务编排|wekan任务面板开源搭建，适合每日工作计划编排|http://9.134.67.128:18080/|
 |面试准备|程序员海外工作/英文面试手册|https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook|
 
 
