@@ -57,6 +57,8 @@
 |mermaid-js|像写markdown实现流程图等设计的js框架|https://github.com/mermaid-js/mermaid|
 |tiptap Editor无头编辑器|类似 notion的编辑器，可以支持各种前端框架|https://github.com/ueberdosis/tiptap|
 |spacedrive VDFS分布式文件管理系统|spacedrive是基于 Rust 开发的分布式文件管理系统  |https://github.com/spacedriveapp/spacedrive|
+|RedisInsight redis web客户端|Redis GUI by Redis， 可以用来管理redis|https://github.com/RedisInsight/RedisInsight.git|
+|drawdb 数据库可视化设计 web|免费、简单、直观的在线数据库设计工具和 SQL 生成器。|https://github.com/drawdb-io/drawdb.git|
 
 
 ## 学习资源
@@ -92,6 +94,7 @@
 ## 低代码相关
 |  标题   | 描述  | 访问链接 | 状态 |
 |  ----  | ----  |  ----  | ----  |
+|grapesjs 无需编码就可以完成web页面搭建|免费开源 Web Builder 框架。无需编码即可构建模板的下一代工具|https://github.com/GrapesJS/grapesjs.git|
 |imove轻量级逻辑编排||https://www.yuque.com/imove/docs/hvu0md|
 |阿里lowcode引擎|基于 Low-Code Engine 快速打造高生产力的低代码研发平台|https://lowcode-engine.cn/|
 |phith0n，『离别歌』是我的个人博客|业余时间，我大概有1/3是一个黑客，喜欢研究和挑战计算机世界的各种代码与协议，对未知的技术充满好奇；1/3是一个程序员，热爱所有创造性的工作，包括编码、写作和沙盒游戏（比如缺氧和帝国时代）；还有约1/3是个文字工作者，可能现在不到1/3了，因为我发现我的表达欲正在逐渐消失。|https://www.leavesongs.com/|

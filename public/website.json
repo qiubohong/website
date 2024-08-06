@@ -264,6 +264,13 @@
             "url": "https://gitstars.cfour.top/"
         }
     ],
+    "ai": [
+        {
+            "title": "Perplexica AI搜索",
+            "description": "Perplexica 是一个人工智能驱动的搜索引擎。它是 Perplexity AI 的开源替代品",
+            "url": "https://github.com/ItzCrazyKns/Perplexica"
+        }
+    ],
     "framework": [
         {
             "title": "mermaid-js",
@@ -279,6 +286,16 @@
             "title": "spacedrive VDFS分布式文件管理系统",
             "description": "spacedrive是基于 Rust 开发的分布式文件管理系统  ",
             "url": "https://github.com/spacedriveapp/spacedrive"
+        },
+        {
+            "title": "RedisInsight redis web客户端",
+            "description": "Redis GUI by Redis， 可以用来管理redis",
+            "url": "https://github.com/RedisInsight/RedisInsight.git"
+        },
+        {
+            "title": "drawdb 数据库可视化设计 web",
+            "description": "免费、简单、直观的在线数据库设计工具和 SQL 生成器。",
+            "url": "https://github.com/drawdb-io/drawdb.git"
         }
     ],
     "time": [
@@ -314,6 +331,11 @@
         }
     ],
     "lowcode": [
+        {
+            "title": "grapesjs 无需编码就可以完成web页面搭建",
+            "description": "免费开源 Web Builder 框架。无需编码即可构建模板的下一代工具",
+            "url": "https://github.com/GrapesJS/grapesjs.git"
+        },
         {
             "title": "imove轻量级逻辑编排",
             "description": "",

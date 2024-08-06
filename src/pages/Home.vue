@@ -20,6 +20,7 @@ import {
           <t-menu-item value="book"> 在读书籍 </t-menu-item>
           <t-menu-item value="blog"> 博客收集 </t-menu-item>
           <t-menu-item value="framework"> 开源框架 </t-menu-item>
+          <t-menu-item value="ai"> AI学习 </t-menu-item>
           <t-menu-item value="learn"> 学习资源 </t-menu-item>
           <t-menu-item value="week"> 技术周刊 </t-menu-item>
           <t-menu-item value="lowcode"> 低代码相关 </t-menu-item>
